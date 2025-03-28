@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1743139150 source:c:\file code\lever2\enemy.cpp
+	"Enemy.h"
+	"TextureManager.h"
+	<iostream>
+
+1743139524 c:\file code\lever2\enemy.h
+	<SDL.h>
+	<vector>
+	"Constants.h"
+
+1743139524 c:\file code\lever2\constants.h
+	<SDL.h>
+
+1743139524 c:\file code\lever2\texturemanager.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+
+1743139524 source:c:\file code\lever2\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	<iostream>
+
+1743139524 c:\file code\lever2\game.h
+	<SDL.h>
+	"Constants.h"
+	"Player.h"
+	"Enemy.h"
+
+1743139524 c:\file code\lever2\player.h
+	<SDL.h>
+	<vector>
+	"Constants.h"
+
+1743139524 source:c:\file code\lever2\main.cpp
+	"Game.h"
+	<iostream>
+
+1743139524 source:c:\file code\lever2\player.cpp
+	"Player.h"
+	"TextureManager.h"
+	<iostream>
+
+1743139524 source:c:\file code\lever2\texturemanager.cpp
+	"TextureManager.h"
+	<iostream>
+
