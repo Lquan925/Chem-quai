@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1745036914 source:c:\file code\lever 3(map&sound)\texture_manager.cpp
+	"texture_manager.h"
+	<iostream>
+
+1745036914 c:\file code\lever 3(map&sound)\texture_manager.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+
+1745037280 source:c:\file code\lever 3(map&sound)\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	"constants.h"
+	"texture_manager.h"
+	"enemy.h"
+	"game.h"
+
+1745036914 c:\file code\lever 3(map&sound)\constants.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1745036673 c:\file code\lever 3(map&sound)\enemy.h
+	"constants.h"
+	<SDL.h>
+
+1745036914 c:\file code\lever 3(map&sound)\game.h
+	"constants.h"
+	"enemy.h"
+	<vector>
+	<utility>
+
