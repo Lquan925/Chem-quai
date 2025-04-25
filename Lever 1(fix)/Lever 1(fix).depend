@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1744098124 source:c:\file code\lever 1(fix)\main.cpp
-	<SDL.h>
-	<SDL_image.h>
-	<iostream>
-	<vector>
-
